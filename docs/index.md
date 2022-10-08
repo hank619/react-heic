@@ -2,7 +2,7 @@
 
 ## What is HEIC
 
-[HEIC]("https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format")
+[HEIC](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
 
 ## Usage
 
