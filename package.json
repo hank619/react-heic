@@ -15,6 +15,7 @@
   "files": [
     "dist"
   ],
+  "license": "MIT",
   "repository": "https://github.com/matrixyf/react-heic",
   "module": "dist/esm/index.js",
   "typings": "dist/esm/index.d.ts",
