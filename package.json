@@ -16,6 +16,7 @@
   "files": [
     "dist"
   ],
+  "repository": "https://github.com/matrixyf/react-heic",
   "module": "dist/esm/index.js",
   "typings": "dist/esm/index.d.ts",
   "gitHooks": {
@@ -30,6 +31,7 @@
     ]
   },
   "dependencies": {
+    "heic2any": "^0.0.3",
     "react": "^18.0.0"
   },
   "devDependencies": {
